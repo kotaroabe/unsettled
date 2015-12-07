@@ -3,4 +3,4 @@ unsettled
 - spread : https://github.com/kotaroabe/spread
 - transition : https://github.com/kotaroabe/transition
 
-by Kotaro Abe + Yasuaki Kakehi, 2014
+by Kotaro Abe, 2014.
